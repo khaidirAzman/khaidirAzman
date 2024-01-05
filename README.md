@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @khaidirAzman
 - 👀 I’m interested in JS
-- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Angular
 - 📫 How to reach me khaidir.azman83@gmail.com
 
