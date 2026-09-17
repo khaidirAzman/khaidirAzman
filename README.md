@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khaidirAzman
-- 👀 I’m interested in JS
-- 💞️ I’m looking to collaborate on Angular
+- 👀 I’m interested in JS/TS
+- 💞️ I’m looking to collaborate on Angular, React, NodeJS and C#.NET
 - 📫 How to reach me khaidir.azman83@gmail.com
 
 <!---
